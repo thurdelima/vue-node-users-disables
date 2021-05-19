@@ -31,6 +31,30 @@ Step by step to use
 
 <br/>
 
+##  ⚙️ Some Techs:
+
+ 🖥️  Backend:
+
+- cors
+- dotenv
+- express
+- faker
+- mongoose
+- mongoose-paginate-v2
+
+
+ 💻  Front:
+
+- axios
+- bootstrap-vue
+- core-js
+- moment
+- vue
+- vue-router
+- vuex
+
+<br/>
+
 <h4 align="center">
   ---
 
