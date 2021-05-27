@@ -26,7 +26,7 @@ Step by step to use
 
 1 - rename .env.example to env end config vars and npm install or yarn <br/>
 2 - run comand yarn or npm run seed to populate db with data <br/>
-4 - enter directory front and yarn or npm install <br/>
+3 - enter directory front and yarn or npm install <br/>
 4 - enjoy it
 
 <br/>
